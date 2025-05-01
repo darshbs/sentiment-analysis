@@ -1,2 +1,2 @@
 # sentiment-analysis
-Learning Twitter API
+Just a small code that runs based on twitter API which retrieves a specific tweets with the a query and analyses the sentiments over the tweets
